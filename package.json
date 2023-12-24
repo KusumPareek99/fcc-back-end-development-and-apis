@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Kusum Pareek",
   "description": "A project that does something awesome from fcc",
+  "keywords": [ "learn", "npm", "nodejs" ],
   "dependencies": {
     "express": "^4.18.2"
   },
